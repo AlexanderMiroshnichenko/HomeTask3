@@ -1,0 +1,5 @@
+﻿*.sln
+.vs
+bin
+obj
+HomeTask3.csproj
